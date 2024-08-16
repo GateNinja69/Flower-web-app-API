@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "NSX8S6KhFl+olcQv6AUfMxtNPNFg+HZXnvs/kimE61Q=",
+  "Source": "FlowersWebAPI",
+  "BasePath": "_content/FlowersWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FlowersWebAPI\\wwwroot",
+      "Source": "FlowersWebAPI",
+      "ContentRoot": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\",
+      "BasePath": "_content/FlowersWebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\images\\21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile",
+      "SourceId": "FlowersWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\",
+      "BasePath": "_content/FlowersWebAPI",
+      "RelativePath": "images/21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile"
+    },
+    {
+      "Identity": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\images\\ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile",
+      "SourceId": "FlowersWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\",
+      "BasePath": "_content/FlowersWebAPI",
+      "RelativePath": "images/ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile"
+    },
+    {
+      "Identity": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\images\\cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile",
+      "SourceId": "FlowersWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\",
+      "BasePath": "_content/FlowersWebAPI",
+      "RelativePath": "images/cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile"
+    }
+  ]
+}

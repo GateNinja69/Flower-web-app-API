@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\images\\21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile",
+      "PackagePath": "staticwebassets\\images\\21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile"
+    },
+    {
+      "Id": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\images\\ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile",
+      "PackagePath": "staticwebassets\\images\\ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile"
+    },
+    {
+      "Id": "C:\\Users\\blaze\\Desktop\\FlowersWebAPI\\FlowersWebAPI\\wwwroot\\images\\cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile",
+      "PackagePath": "staticwebassets\\images\\cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FlowersWebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FlowersWebAPI.props",
+      "PackagePath": "build\\FlowersWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FlowersWebAPI.props",
+      "PackagePath": "buildMultiTargeting\\FlowersWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FlowersWebAPI.props",
+      "PackagePath": "buildTransitive\\FlowersWebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

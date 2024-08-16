@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile))">
+      <SourceType>Package</SourceType>
+      <SourceId>FlowersWebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FlowersWebAPI</BasePath>
+      <RelativePath>images/21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\21cdcf00-7097-461c-99e6-ee0a22b44a9a_Microsoft.AspNetCore.Http.FormFile))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile))">
+      <SourceType>Package</SourceType>
+      <SourceId>FlowersWebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FlowersWebAPI</BasePath>
+      <RelativePath>images/ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ab28ac95-e934-4b22-819a-39bec4a97b82_Microsoft.AspNetCore.Http.FormFile))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile))">
+      <SourceType>Package</SourceType>
+      <SourceId>FlowersWebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FlowersWebAPI</BasePath>
+      <RelativePath>images/cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cac66e88-d178-4899-a3ae-7e714ab89080_Microsoft.AspNetCore.Http.FormFile))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
